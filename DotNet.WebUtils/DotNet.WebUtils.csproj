@@ -2,11 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <PackageId>DotNet.WebUtils</PackageId>
+    <PackageId>PieroDeTomi.DotNet.WebUtils</PackageId>
     <Authors>Piero De Tomi</Authors>
     <Company />
-    <Product>DotNet.WebUtils</Product>
+    <Product>PieroDeTomi.DotNet.WebUtils</Product>
     <Description>Web utility classes for .NET</Description>
+    <RepositoryUrl>https://github.com/pierodetomi/dotnet-webutils</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageLicenseUrl>https://github.com/pierodetomi/dotnet-webutils/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/pierodetomi/dotnet-webutils</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
